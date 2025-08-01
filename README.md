@@ -5,7 +5,7 @@
 <div align="center" style="background-color:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px;">
 
 <h1>Hello, I'm MD. IFTEKHAR - UL - ALAM</h1>
-<h3>A passionate frontend developer from Bangladesh 🇧🇩</h3>
+<h3>A passionate fullstake developer from Bangladesh 🇧🇩</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=iftekharulalam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
