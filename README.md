@@ -4,7 +4,7 @@
 
 <div align="center" style="background-color:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px;">
 
-<h1>Hi 👋, I'm MD. IFTEKHAR - UL - ALAM</h1>
+<h1>Hello, I'm MD. IFTEKHAR - UL - ALAM</h1>
 <h3>A passionate frontend developer from Bangladesh 🇧🇩</h3>
 
 <p>
