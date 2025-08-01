@@ -1,3 +1,5 @@
+<img src="cover.png">
+
 <!-- Dark-Themed README.md for GitHub -->
 
 <div align="center" style="background-color:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px;">
