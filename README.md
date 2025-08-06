@@ -32,7 +32,7 @@
 <a style="padding: 5px;" href="https://www.instagram.com/md.iftekharulalam/" target="_blank" class="instagram">
   <img src="img/instagram.svg" style="height: 42px; width: 42px;">
 </a>
-<a style="padding: 5px;" href="[https://https://www.youtube.com/@lexpointbd/](https://youtube.com/@lexpointbd?si=ZfkJy43xJakRttMK)" target="_blank" class="instagram">
+<a style="padding: 5px;" href="https://www.youtube.com/@lexpointbd" target="_blank" class="instagram">
   <img src="img/youtube.svg" style="height: 42px; width: 42px;">
 </a>
 <a style="padding: 5px;" href="https://wa.me/+8801857158544" target="_blank" class="whatsapp">
