@@ -24,22 +24,40 @@
 
 <h3>🌐 Connect with me</h3>
 
-<p>
-  <a href="https://linkedin.com/in/md-iftekhar-ul-alam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:iftekhar@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.facebook.com/iftekharulalam">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/iftekharulalam">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+<!-- Start Hire me these icons are downloaded from "https://worldvectorlogo.com/downloaded/youtube-icon-5" as svg file -->
 
----
+<a style="padding: 5px;" href="https://www.facebook.com/iftey367" target="_blank" class="facebook">
+  <img src="img/facebook.svg" style="height: 42px; width: 42px;">
+</a>
+<a style="padding: 5px;" href="https://www.instagram.com/md.iftekharulalam/" target="_blank" class="instagram">
+  <img src="img/instagram.svg" style="height: 42px; width: 42px;">
+</a>
+<a style="padding: 5px;" href="https://https://www.youtube.com/@lexpointbd/" target="_blank" class="instagram">
+  <img src="img/youtube.svg" style="height: 42px; width: 42px;">
+</a>
+<a style="padding: 5px;" href="https://wa.me/+8801857158544" target="_blank" class="whatsapp">
+  <img src="img/whatsapp.svg" style="height: 42px; width: 42px;">
+</a>
+<a style="padding: 5px;" href="https://www.linkedin.com/in/iftey367/" target="_blank" class="linkedin">
+  <img src="img/linkedin.svg" style="height: 42px; width: 42px;">
+</a>
+
+<a style="padding: 5px;" href="https://www.fiverr.com/s/KejVNo4" target="_blank">
+  <img src="img/fiverr.svg" style="height: 42px; width: 42px;">
+</a>
+
+<a style="padding: 5px;" href="https://www.freelancer.com/u/Iftey367?sb=t" target="_blank">
+  <img src="img/freelancer.svg" style="height: 42px; width: 42px;">
+</a>
+
+<a style="padding: 5px;" href="https://www.freelancer.com/u/Iftey367?sb=t" target="_blank">
+  <img src="img/upwork.svg" style="height: 42px; width: 42px;">
+</a>
+<a style="padding: 5px;" href="https://github.com/dev-iftey" target="_blank">
+  <img src="img/github.svg" style="height: 42px; width: 42px;">
+</a>
+
+<!-- Stop Hire me -->
 
 <h3>💻 Tech Stack</h3>
 
